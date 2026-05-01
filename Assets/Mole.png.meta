@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c807a7a883bdf4675aae4fa682cadf47
+guid: b761a937b12324f6c81c2336029785a0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8769549347541133393
-    second: Mole_0
+      213: 2032703586664660533
+    second: "Adobe Express Photo \u30D5\u309A\u30ED\u30B7\u3099\u30A7\u30AF\u30C8_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mole_0
+      name: "Adobe Express Photo \u30D5\u309A\u30ED\u30B7\u3099\u30A7\u30AF\u30C8_0"
       rect:
         serializedVersion: 2
         x: 741
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 158a2742ba2b3b970800000000000000
-      internalID: 8769549347541133393
+      spriteID: 53e3fc0742d953c10800000000000000
+      internalID: 2032703586664660533
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mole_0: 8769549347541133393
+      "Adobe Express Photo \u30D5\u309A\u30ED\u30B7\u3099\u30A7\u30AF\u30C8_0": 2032703586664660533
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
