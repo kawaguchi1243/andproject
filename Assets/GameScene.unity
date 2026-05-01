@@ -239,9 +239,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb6fb3edd95dc4d5bba3ef8b5f97666f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HoleSpawner
-  holePrefab: {fileID: 0}
-  xSpacing: 1
-  ySpacing: 4
+  holePrefab: {fileID: 4334387849534114048, guid: 9e5882491278941df8e3b6f6f4549d63, type: 3}
+  xSpacing: 3
+  ySpacing: 3
 --- !u!4 &276293943
 Transform:
   m_ObjectHideFlags: 0
